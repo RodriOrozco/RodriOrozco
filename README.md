@@ -4,7 +4,6 @@
 
 ![web developer, creator and entrepreneur](https://i.imgur.com/NchFR5o.png)
 
-I am currently developing as a professional in the IT world, I studied psychology for 3 years, I like to undertake and create, I also have experience in marketing and sales.
 
 Skills: || REACT js || JS || HTML || CSS || EXPRESS || SEQUELIZE ||
 
