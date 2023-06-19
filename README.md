@@ -1,8 +1,8 @@
 
-### Hi there 👋, my name is Rodrigo
-#### web developer, creator and entrepreneur
+### Hello everyone! 👋, my name is Rodrigo
+#### I love to improve my skills and grow constantly, in this repository you'll see all my practice to reach my goals as a software developer.  
 
-![web developer, creator and entrepreneur](https://i.imgur.com/NchFR5o.png)
+![This image contain only my first technologies, is missing TypeScript, Angular, etc.](https://i.imgur.com/NchFR5o.png)
 
 
 Skills: || REACT js || JS || HTML || CSS || EXPRESS || SEQUELIZE ||
